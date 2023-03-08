@@ -1,2 +1,2 @@
-# Linear-regression-with-Tensorflo-Keras
-Linear regression with Tensorflo&amp;Keras
+# Linear-regression-with-Tensorflow-Keras
+This colab notebook will demonstrate you how to implement a Linear regression using Tensorflow & Keras
